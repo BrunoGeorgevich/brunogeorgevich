@@ -4,18 +4,20 @@
 
 🔍 Welcome to my GitHub profile! I am passionate about robotics and computer engineering, with a focus on developing cutting-edge technologies. Here's a bit about me:
 
-## 📊 Metrics and Measurements
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/brunogeorgevich/brunogeorgevich/output/github-contribution-grid-snake.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogeorgevich&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/Nicochess/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=brunogeorgevich&show_icons=true&count_private=true&theme=radical&hide=issues)
-
-## 🚀 Professional Skills
-
-🤖 Robotics | 📷 Computer Vision | 🎯 Object Detection | 🧩 Semantic Segmentation | 🧍 Pose Estimation | 🗺️ Semantic Mapping | 💻 Python Developer
-
+<div align="center">
+  <a href="https://github.com/brunogeorgevich">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20obvious%20is%20that%20which%20is%20never%20seen%20until%20someone%20expresses%20it%20simply&author=Khalil%20Gibran"/>
+  </br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunogeorgevich&theme=dark"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogeorgevich&layout=compact&langs_count=7&theme=dark"/>
+  </br>
+  </br>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=brunogeorgevich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/api?username=brunogeorgevich&column=4&theme=onestar&include_all_commits=true&count_private=true"/>
+  </br>
+  </br>
+  <img height="25em" src="https://visitcount.itsvg.in/api?id=brunogeorgevich&icon=0&color=12"/>    
+</div>
 
 ## 🌐 Known Languages
 
@@ -27,7 +29,7 @@ I am a Ph.D candidate at the University of Porto, researching the development of
 
 🧰 I love to code in Python, striving for efficiency and readability in my work. My goal is to contribute to the community and push the boundaries of what's possible.
 
-## 🛠️ Frameworks and Libraries Experience
+## 🚀 Professional Skills, Frameworks and Libraries Experience 🛠️
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,6 +44,30 @@ I am a Ph.D candidate at the University of Porto, researching the development of
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -54,6 +80,7 @@ I am a Ph.D candidate at the University of Porto, researching the development of
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -72,11 +99,17 @@ I am a Ph.D candidate at the University of Porto, researching the development of
 - **Robotics Simulators🌍**: Utilized Gazebo, WeBots, Coppelia Robotics for robotics simulation and testing.
   
 - **Data Visualization📈**: Proficient in data visualization using Matplotlib, Seaborn and others.
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/brunogeorgevich/brunogeorgevich/output/github-contribution-grid-snake.svg)
   
 
 ## 📫 Contact Me
 
 📧 Email: [brunogeorgevich@gmail.com](mailto:brunogeorgevich@gmail.com)
+
 🌐 LinkedIn: [brunogeorgevich](https://www.linkedin.com/in/brunogeorgevich/)
+
+📜 Lattes CV: [Bruno Georgevich Ferreira](http://lattes.cnpq.br/3416550915348714)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions related to robotics and computer engineering! Let's innovate together! 🤝
