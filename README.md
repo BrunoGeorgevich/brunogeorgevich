@@ -7,13 +7,14 @@
 <div align="center">
   <a href="https://github.com/brunogeorgevich">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20obvious%20is%20that%20which%20is%20never%20seen%20until%20someone%20expresses%20it%20simply&author=Khalil%20Gibran"/>
+  <img width="780em" src="https://github-widgetbox.vercel.app/api/profile?username=brunogeorgevich&data=repositories,stars,commits&theme=darkmode"/>
   </br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunogeorgevich&theme=dark"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogeorgevich&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogeorgevich&layout=compact&langs_count=7&theme=dark"/>
   </br>
   </br>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=brunogeorgevich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/api?username=brunogeorgevich&column=4&theme=onestar&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunogeorgevich&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/api?username=brunogeorgevich&column=4&theme=onestar"/>
   </br>
   </br>
   <img height="25em" src="https://visitcount.itsvg.in/api?id=brunogeorgevich&icon=0&color=12"/>    
@@ -99,10 +100,6 @@ I am a Ph.D candidate at the University of Porto, researching the development of
 - **Robotics Simulators🌍**: Utilized Gazebo, WeBots, Coppelia Robotics for robotics simulation and testing.
   
 - **Data Visualization📈**: Proficient in data visualization using Matplotlib, Seaborn and others.
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/brunogeorgevich/brunogeorgevich/output/github-contribution-grid-snake.svg)
-  
 
 ## 📫 Contact Me
 
