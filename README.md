@@ -1,6 +1,6 @@
 # 👨‍💻 Bruno Georgevich Ferreira 👨‍💼
 
-🎓 Ph.D. Candidate at the University of Porto 🇵🇹 | 🤖 Robotics Researcher | 🌐 Computer Engineer
+🎓 Ph.D. Student at the University of Porto 🇵🇹 | 🤖 Robotics Researcher | 🌐 Computer Engineer
 
 🔍 Welcome to my GitHub profile! I am passionate about robotics and computer engineering, with a focus on developing cutting-edge technologies. Here's a bit about me:
 
