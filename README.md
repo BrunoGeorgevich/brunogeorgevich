@@ -103,7 +103,7 @@ I am a Ph.D candidate at the University of Porto, researching the development of
 
 ## 📫 Contact Me
 
-📧 Email: [brunogeorgevich@gmail.com](mailto:brunogeorgevich@gmail.com)
+📧 Email: [brunogeorgevich@gmail.com](mailto:brunogeorgevich66@gmail.com)
 
 🌐 LinkedIn: [brunogeorgevich](https://www.linkedin.com/in/brunogeorgevich/)
 
